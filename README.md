@@ -1,7 +1,7 @@
 goyo.vim ([고요](http://en.wiktionary.org/wiki/고요하다))
 =========================================================
 
-Distraction-free writing in Vim.
+Distraction-free writing in Vim. (fork adding vim-signify: [pull request](https://github.com/junegunn/goyo.vim/pull/39))
 
 ![](https://raw.github.com/junegunn/i/master/goyo.png)
 
